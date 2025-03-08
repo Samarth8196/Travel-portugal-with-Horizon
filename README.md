@@ -64,4 +64,4 @@ This project sharpened my ability to tackle complex challenges, introduced me to
 
 ## 😍 Performance
 
-![preview](public/preview/full-website.jpeg)
+
